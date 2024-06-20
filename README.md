@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋<br>I am Shreya Kumar, Frontend Developer & Web Designer</h2>
 
 ###
-
+<br>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ShreyaKumar-dev&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="180" alt="streak graph"  />
   <div>
@@ -12,7 +12,6 @@
 
 ###
 <br>
-
 <img align="right" height="180" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/9afe0493484903.5e66500f8dea4.gif"  />
 
 ###
@@ -63,6 +62,6 @@
 
 <br clear="both">
 
-<img src="snake.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ShreyaKumar-dev/ShreyaKumar-dev/output/snake.svg" alt="Snake animation" />
 
 ###
