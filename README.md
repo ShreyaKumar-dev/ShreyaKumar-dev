@@ -1,4 +1,4 @@
-<h1 align="left" class="heading-element">Hi 👋<br>I am Shreya Kumar, Frontend Developer & Web Designer</h1>
+<h2 align="left" class="heading-element">Hi 👋<br>I'm <a href="https://github.com/ShreyaKumar-dev">Shreya Kumar</a> | Frontend Developer & Web Designer</h2>
 
 ###
 <br>
