@@ -12,11 +12,8 @@
 
 ###
 <br>
-<img align="right" height="180" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/9afe0493484903.5e66500f8dea4.gif"  />
-
-###
-
-<div align="left">
+<div display="grid" gap="20px" grid-templatecolumns="1fr 1fr">
+  <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
@@ -42,7 +39,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo"  />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="vscode logo"  />
+  </div>
+  <img align="right" height="180" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/9afe0493484903.5e66500f8dea4.gif"  />
 </div>
+
+###
 
 ###
 
