@@ -12,7 +12,7 @@
 
 ###
 <br>
-<div display="grid" gap="20px" grid-templatecolumns="1fr 1fr">
+<div display="grid" gap="20px" grid-templatecolumns="1fr 1fr" align-items="center">
   <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
   <img width="5" />
